@@ -1,0 +1,4 @@
+dbname=plantilla
+dbuser=user
+dbpass=
+url=http://localhost:8080/plantilla
