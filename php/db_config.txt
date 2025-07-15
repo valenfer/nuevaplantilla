@@ -1,0 +1,4 @@
+dbname="plantilla"
+dbuser="root"
+dbpass=""
+url="localhost/plantilla"
